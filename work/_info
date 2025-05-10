@@ -1,0 +1,116 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Coco\Desktop\alu_project
+vAdder
+I;fdX_OSmTm30HH31EcC661
+VT7LDg3m;aGo9_LD[E=PPz2
+Z1 w1746726904
+Z2 8C:/Users/Coco/Desktop/alu_project/src/adder.v
+Z3 FC:/Users/Coco/Desktop/alu_project/src/adder.v
+L0 1
+Z4 OV;L;6.5b;42
+r1
+31
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+n@adder
+!s100 eL86MYJ>jSTi0]HDHK>Zc3
+!s85 0
+!s101 -O0
+vALU
+IYgTo7eRcSC>3Zz[FZaGjf0
+VAiE41kVa28XI>:<9aLk<_2
+w1749217563
+8C:/Users/Coco/Desktop/alu_project/src/alu.v
+FC:/Users/Coco/Desktop/alu_project/src/alu.v
+L0 1
+R4
+r1
+31
+R5
+R6
+n@a@l@u
+!s100 5jF0Wg==28PPi_64VL9?11
+!s85 0
+!s101 -O0
+vALU_tb
+!s100 RWfGRcJIG]P6NUHFkXDc^0
+IPNg5YGi?9OmzihHCXgLn20
+VE`_QLbcAmOeKZDFMXUl3B3
+w1749217797
+8C:/Users/Coco/Desktop/alu_project/tb/tb_alu.v
+FC:/Users/Coco/Desktop/alu_project/tb/tb_alu.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6
+n@a@l@u_tb
+vBoothMultiplier
+IGSd<nW@R=J=1H2nlG9WFd0
+VKHJNPIo]=O7?B8C460`RM3
+w1749218013
+8C:/Users/Coco/Desktop/alu_project/src/booth_multiplier.v
+FC:/Users/Coco/Desktop/alu_project/src/booth_multiplier.v
+L0 2
+R4
+r1
+31
+R5
+R6
+n@booth@multiplier
+!s100 GIJ[2I0Q73[Fhb=fQ>;aK2
+!s85 0
+!s101 -O0
+vDivider
+Ing[eF[fWN<oZGQV`Sd73=0
+VgFL5^]FM?Ie0d]KVIKTnY3
+w1749217803
+8C:/Users/Coco/Desktop/alu_project/src/divider.v
+FC:/Users/Coco/Desktop/alu_project/src/divider.v
+L0 2
+R4
+r1
+31
+R5
+R6
+n@divider
+!s100 WTD_`50RU7R92>hlf0NcJ1
+!s85 0
+!s101 -O0
+vfull_adder
+IbR1PlALeJm6aX=3;2e4HF1
+VDUJ^hNzT3=5QZ0SE<i6DV2
+R1
+R2
+R3
+L0 19
+R4
+r1
+31
+R5
+R6
+!s100 9AQYZ4HJCFfDoU@6<B9S[2
+!s85 0
+!s101 -O0
+vSubtractor
+I5A3MaUP5:3Mz^K2lEOdOi3
+V8;oE41]OK;5cnLh;lhdP[2
+w1746727095
+8C:/Users/Coco/Desktop/alu_project/src/subtractor.v
+FC:/Users/Coco/Desktop/alu_project/src/subtractor.v
+L0 1
+R4
+r1
+31
+R5
+R6
+n@subtractor
+!s100 C[Q49P=B@BLJm1@Gk^cNS0
+!s85 0
+!s101 -O0

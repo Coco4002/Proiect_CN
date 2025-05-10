@@ -1,4 +1,3 @@
-//RESTORING DIVISION
 module Divider (
     input [7:0] Dividend,
     input [7:0] Divisor,
